@@ -6,7 +6,7 @@ export default function Profile() {
         <div className='profile-parent'>
             <div className='profile-details'>
                 <div className='colz'>
-                    <a href="#">
+                    <a href="https://www.facebook.com/profile.php?id=100015248027613">
                         <i className='fa fa-facebook-square'></i>
                     </a>
                     <a href="https://github.com/zehsantoss">
@@ -22,9 +22,22 @@ export default function Profile() {
                         <i className='fa fa-whatsapp'></i>
                     </a>
                 </div>
+
+                <div className="profile-details-name">
+                    <span className="primary-text">
+                        {" "}
+                        Hello, I'M <span className="highlighted-text">José</span>
+                    </span>
+                </div>
+                <div className='profile-details-role'>
+                    <span className='primary-text'>
+                        {" "}
+                        <h1></h1>
+                    </span>
+                </div>
             </div>
         </div>
     </div>
-  )
+  );
 }
 
