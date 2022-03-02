@@ -9,17 +9,17 @@ export default function Profile() {
                     <a href="#">
                         <i className='fa fa-facebook-square'></i>
                     </a>
-                    <a href="#">
-                        <i className='fa fa-google-plus-square'></i>
+                    <a href="https://github.com/zehsantoss">
+                        <i className='fa fa-github-square'></i>
                     </a>
-                    <a href="#">
+                    <a href="https://www.instagram.com/zehsantoss/?hl=en">
                         <i className='fa fa-instagram'></i>
                     </a>
-                    <a href="#">
-                        <i className='fa fa-youtube-square'></i>
+                    <a href="https://www.linkedin.com/in/jos%C3%A9-prot%C3%A1sio-aabaab227/">
+                        <i className='fa fa-linkedin-square'></i>
                     </a>
-                    <a href="#">
-                        <i className='fa fa-twitter-square'></i>
+                    <a href="https://api.whatsapp.com/send?phone=5564993138737&text=Adiciona aí!">
+                        <i className='fa fa-whatsapp'></i>
                     </a>
                 </div>
             </div>
