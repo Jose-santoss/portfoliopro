@@ -9,7 +9,7 @@ export default function Profile() {
             <div className='profile-details'>
                 <div className='colz'>
                     <div className='colz-icon'>
-                    <a href="https://www.facebook.com/profile.php?id=100015248027613">
+                  <a href="https://www.facebook.com/profile.php?id=100015248027613">
                         <i className='fa fa-facebook-square'></i>
                     </a>
                     <a href="https://github.com/zehsantoss">
@@ -76,4 +76,4 @@ export default function Profile() {
             </div>   
   );
   }
-
+ 
